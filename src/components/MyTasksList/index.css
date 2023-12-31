@@ -1,0 +1,33 @@
+.list-container {
+  background-color: #131213;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  padding-left: 30px;
+}
+.left-paragraph {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.right-paragraph {
+  color: #323f4b;
+  font-size: 20px;
+  font-family: 'Roboto';
+
+  border-radius: 10px;
+}
+.paragraph-container {
+  height: 40px;
+  min-width: 50px;
+  background-color: #f3aa4e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}

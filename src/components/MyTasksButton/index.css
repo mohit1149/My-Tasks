@@ -1,0 +1,20 @@
+.button-list-item {
+  margin-right: 10px;
+}
+.option-button {
+  color: #ffffff;
+  border-color: #f3aa4e;
+  background-color: transparent;
+  padding: 5px;
+  border-radius: 10px;
+  width: 10vw;
+  outline: none;
+}
+.current-button {
+  color: #ffffff;
+  background-color: #f3aa4e;
+  padding: 5px;
+  border-radius: 10px;
+  width: 10vw;
+  outline: none;
+}

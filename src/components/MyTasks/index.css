@@ -1,0 +1,82 @@
+.bg-container {
+  display: flex;
+  justify-content: flex-start;
+}
+.left-container {
+  background-color: #131213;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding-top: 100px;
+}
+.task-heading {
+  color: #f3aa4e;
+  font-family: 'Roboto';
+  font-size: 35px;
+  text-align: center;
+}
+.input-container {
+  margin-bottom: 20px;
+}
+.label-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+.input-slide {
+  height: 7vh;
+  width: 25vw;
+  padding: 5px;
+  background-color: #ffffff;
+  outline: none;
+  padding-left: 10px;
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.add-task {
+  color: #ffffff;
+  border: none;
+  background-color: #f3aa4e;
+  width: 8vw;
+  padding: 10px;
+  border-radius: 6px;
+}
+.right-container {
+  background-color: #000000;
+  min-height: 100vh;
+  width: 70vw;
+  padding-top: 110px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.tag-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.unOrder-list-button {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.not-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+.not-paragraph {
+  text-align: center;
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.unOrder-task-list {
+  padding-left: 0px;
+  list-style-type: none;
+}
